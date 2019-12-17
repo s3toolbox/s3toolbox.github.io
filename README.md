@@ -23,7 +23,7 @@ To the run analysis:
 Windows precompiled binaries are available [here](https://github.com/s3toolbox/S3T/releases):
 https://github.com/s3toolbox/S3T/releases
 
-Source code [here](https://github.com/s3toolbox/S3T/):
+Source code can be found [here](https://github.com/s3toolbox/S3T/):
 https://github.com/s3toolbox/S3T/
 
 Author: Michiel Van Dyck (2018) Antwerp, Belgium
