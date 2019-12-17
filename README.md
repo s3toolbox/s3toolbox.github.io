@@ -2,7 +2,7 @@
 *Disclaimer: This software is still in active development and for this, not (yet) user nor*
 *developper friendly.*
 
-![alt text](https://github.com/meChiel/S3T/blob/master/thelogo.png "S3T Logo")
+![alt text](thelogo.png "S3T Logo")
 
 A tool to segment and analyse high throughput screen recordings of electronically stimulated synapses.
 
@@ -18,7 +18,7 @@ and use the toolbar
 To the run analysis:
 1) Press that Big Process Button.
 
-![alt text](https://github.com/meChiel/S3T/blob/master/buttonsExample.png "S3T Logo")
+![alt text](buttonsExample.png "S3T Logo")
 
 (Windows precompiled binaries are available.)
 
