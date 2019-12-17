@@ -20,10 +20,10 @@ To the run analysis:
 
 ![alt text](buttonsExample.png "S3T Logo")
 
-Windows precompiled binaries are available here:
+Windows precompiled binaries are available [here](https://github.com/s3toolbox/S3T/releases):
 https://github.com/s3toolbox/S3T/releases
 
-Source code here:
+Source code [here](https://github.com/s3toolbox/S3T/):
 https://github.com/s3toolbox/S3T/
 
 Author: Michiel Van Dyck (2018) Antwerp, Belgium
